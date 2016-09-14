@@ -6,6 +6,7 @@
 //  Copyright © 2016 wangxiaohui. All rights reserved.
 //  Thresholding of Lena and demo of function createTrackbar.
 //  Remember to invoke the callback function after createTrackbar.
+//  Remember to put the imshow function in the callback function and put the namedwindow function in the main function.
 
 #include <iostream>
 #include "opencv2/core/core.hpp"
