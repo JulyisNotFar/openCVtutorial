@@ -4,7 +4,7 @@
 //
 //  Created by wangxiaohui on 8/9/16.
 //  Copyright © 2016 wangxiaohui. All rights reserved.
-//
+//  find the contours of Lena using Sobel operator. 
 
 #include <iostream>
 #include "opencv2/core/core.hpp"
